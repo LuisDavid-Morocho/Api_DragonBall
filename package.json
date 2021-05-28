@@ -1,0 +1,24 @@
+{
+  "name": "api_dragonball",
+  "version": "1.0.0",
+  "description": "Api Dragon Ball",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Morochin",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisDavid-Morocho/git-inicio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuisDavid-Morocho/git-inicio/issues"
+  },
+  "homepage": "https://github.com/LuisDavid-Morocho/git-inicio#readme"
+}
